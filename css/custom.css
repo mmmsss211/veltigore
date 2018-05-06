@@ -340,3 +340,7 @@ a.effect-shine:hover {
 .category-margin {
   margin-bottom: 0rem !important;
 }
+
+.btn {
+  padding: .375rem 1.7rem .47rem 1.7rem;
+}
