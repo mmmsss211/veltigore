@@ -367,3 +367,11 @@ a.effect-shine:hover {
 .btn {
   padding: .375rem 1.7rem .47rem 1.7rem;
 }
+
+/* naviagation affix animations */
+.navbar.color-change {
+  background-color: #f45b69;
+  height: 50px;
+  color: rgba(255,254,255,0.8);
+  position: fixed
+}
